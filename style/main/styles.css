@@ -1,8 +1,17 @@
 @import url(reset.css);
 @import url(vars.css);
 
+@import url(../owl/owl.carousel.min.css);
+@import url(../owl/owl.theme.default.min.css);
+
 body {
   background: var(--preto);
   font-family: 'Times New Roman', Times, serif;
   color: var(--branco)
+}
+
+.box-filme {
+  height: 100%;
+  width: 100%;
+  display: block;
 }
