@@ -40,6 +40,8 @@ Agora é só abrir o ``index.html``.
 
 ### Opção 2: Acessar a sua página hospedad no github pages
 
+[Github pages](https://guilhermag.github.io/dio-interface-netflix/)
+
 ## Créditos
 
 Desenvolvido por Guilherme de Araujo Gabriel, através das aulas apresentadas por Felipe Aguiar / DIO.
