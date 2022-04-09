@@ -1,9 +1,9 @@
 .container-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url("../../img/capa.jpg");
-  
   background-size: cover;
-  height: 400px;
+  
+  height: 600px;
 
   display: flex;
   flex-direction: column;
@@ -24,5 +24,24 @@
   margin-top: 15%;
   font-size: 40px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@media screen and (max-width: 750px){
+  .container-principal {
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url("../../img/capa-2.jpg");
+    background-size: 100%;
+
+    height: 500px;
+  }
+}
+
+@media screen and (min-width: 1000px){
+  .container-principal {
+    background-size: 1920px 1080px center;
+  }
+  
+  .filme-principal__descricao {
+    width: 50%;
+  }
 }
 

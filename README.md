@@ -14,9 +14,13 @@ O objetivo desse projeto foi revisar tópicos de html e css. Inspirado nas aulas
 
 ## Preview do projeto
 
-*Imagem provisória até o projeto ser terminado.*
+Preview mobile
 
-![Preview do projeto](img/capa.jpg)
+![Preview do projeto](img/preview-mobile.png)
+
+Preview desktop
+
+![Preview do projeto](img/preview-desktop.png)
 
 ## Como testar o projeto
 
