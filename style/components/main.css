@@ -1,0 +1,28 @@
+@import url(header.css);
+@import url(conteudo-principal.css);
+
+.botao {
+  background-color: var(--botao);
+  border: none;
+  color: var(--branco);
+
+  padding: 15px 30px;
+  margin-right: 15px;
+  font-size: 12px;
+
+  cursor: pointer;
+  transition: .3s ease all;
+}
+
+.botao:hover {
+  background-color: var(--branco);
+  color: var(--preto)
+}
+
+.fas {
+  margin-right: 5px;
+}
+
+.container {
+  margin-left: 20px;
+}
